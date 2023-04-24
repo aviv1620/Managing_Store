@@ -44,7 +44,7 @@ To run the project locally, follow these steps:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/aviv1620/Managing_Store
 ```
 
 2. Navigate to the project directory:
@@ -67,6 +67,6 @@ npm start
 
 This will start the React development server and the application will be accessible at `http://localhost:3000` in your web browser.
 
-Note: Make sure you have Node.js and npm installed on your machine before running the above commands.
+Note: Make sure you have Node.js Git and npm installed on your machine before running the above commands.
 
 Note: Since the data is stored locally on the client side, it may not persist across different devices or browsers. Any changes made to the data will only be reflected on the current device/browser.
