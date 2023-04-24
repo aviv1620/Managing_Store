@@ -17,7 +17,6 @@ This page displays a table with all the customers. Each row in the table display
 ### Purchases
 This page displays a search engine for searching purchases. It has three fields for product, customer, and date, and a search button. The data filled in the fields can be passed via the URL for searching purchases.  
 <img src="screenshot_purchases.png" alt="screenshot" width="800"/>  
-<img src="screenshot_purchases_edit.png" alt="screenshot" width="800"/>  
 
 ## architecture
 The architecture of the project is split into two main types of components: UI components and Flow components.
