@@ -12,7 +12,7 @@ This page displays products in cards. Each product card displays product propert
 ### Customers
 This page displays a table with all the customers. Each row in the table displays the customer's name, their purchases, and two buttons for editing the customer and adding a product to the customer.  
 <img src="screenshot_customers.png" alt="screenshot" width="800"/>  
-<img src="screenshot_Customer_edit.png" alt="screenshot" width="800"/>  
+<img src="screenshot_customer_edit.png" alt="screenshot" width="800"/>  
 
 ### Purchases
 This page displays a search engine for searching purchases. It has three fields for product, customer, and date, and a search button. The data filled in the fields can be passed via the URL for searching purchases.  
